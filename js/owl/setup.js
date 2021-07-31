@@ -17,3 +17,11 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
+
+
+function redirect(){
+    window.open("https://www.netflix.com/browse");
+}
+function trailer(){
+    window.open("https://youtu.be/4ake9I0-6vA");
+}
