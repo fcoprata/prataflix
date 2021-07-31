@@ -12,7 +12,7 @@ $('.owl-carousel').owlCarousel({
         1000:{
             items:5
         },
-        1500:{
+        1300:{
             items:8
         }
     }

@@ -15,3 +15,18 @@
         width: 50%;
     }
 }
+@media screen and (max-width:600px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+        font-size: 35px;
+    }
+    .botao{
+        margin: 8px;
+        width: 60px;
+        height: 60px;
+        font-size: 10px;
+        text-align: right;
+        
+    }
+}
