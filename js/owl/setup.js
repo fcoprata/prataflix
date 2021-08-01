@@ -58,3 +58,6 @@ function filme10(){
 function git(){
     window.open("https://github.com/fcoprata/cloneflix")
 }
+function play(){
+    window.open("https://www.cartoonnetwork.com.br/promo/space-jam")
+}
