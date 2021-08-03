@@ -19,7 +19,7 @@ $('.owl-carousel').owlCarousel({
 })
 
 
-function redirect(){
+function redirect(){//funçao para redirecionar de paginas
     window.open("https://www.netflix.com/browse");
 }
 function trailer(){
