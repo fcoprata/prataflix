@@ -1,6 +1,6 @@
 :root{
-    --color1: rgb(32, 32, 139);
-    --color2: #white;
+    --color1: #cccc00;
+    --color2: #000;
 }
 
 /*Elementos Base*/
@@ -29,7 +29,7 @@ header .logo{
 
 header nav a{
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: #000;
     margin-right: 10px;
 
 }
